@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>🎓 Youdemi – Online Course Academy</h1>
-  <p>A professional and modern UI design for an online course platform built using HTML, CSS, and JavaScript.</p>
+  <p>A professional and modern UI design for an online course platform built using HTML, CSS, and a little bit JavaScript.</p>
   <img src="Online%20Course%20Website/assets/images/screenshot.PNG" alt="Youdemi Screenshot" width="100%"/>
 </div>
 
