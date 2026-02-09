@@ -25,9 +25,6 @@
 
 <h1 align="center">🎓 Youdemi – Online Course Academy</h1>
 
-A professional and modern **online course platform UI**  
-built using **HTML, CSS, and JavaScript**.
-
 <a href="https://online-course-academy-pi.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
