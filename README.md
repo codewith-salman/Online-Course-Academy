@@ -2,40 +2,108 @@
 
 <br />
 <div align="center">
-  <h1>🎓 Youdemi – Online Course Academy</h1>
-  <p>A professional and modern UI design for an online course platform built using HTML, CSS, and a little bit JavaScript.</p>
-  <img src="Online%20Course%20Website/assets/images/screenshot.PNG" alt="Youdemi Screenshot" width="100%"/>
+
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/youdemi-online-course)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/youdemi-online-course?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/youdemi-online-course?style=social)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://online-course-academy-pi.vercel.app/)
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
+
+<br />
+
+<!-- 🔥 PROJECT LOGO -->
+<img src="Online%20Course%20Website/assets/images/logo.png" alt="Youdemi Logo" width="90" />
+
+<br />
+<br />
+
+<h1 align="center">🎓 Youdemi – Online Course Academy</h1>
+
+A professional and modern **online course platform UI**  
+built using **HTML, CSS, and JavaScript**.
+
+<a href="https://online-course-academy-pi.vercel.app/"><strong>➥ Live Demo</strong></a>
+
 </div>
 
 ---
 
-## About The Project
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-**Youdemi** is a beautifully crafted online course platform UI inspired by modern EdTech websites. This project is focused on clean layout, intuitive user experience, and effective content presentation. It features well-structured sections for courses, categories, testimonials, and call-to-actions — all styled with a balance of professional and vibrant tones.
+---
 
-The project is ideal for showcasing skills in layout planning, UI consistency, and responsive web design. Whether you're building a portfolio or creating a front-end for a real-world LMS product, Youdemi delivers a strong visual foundation.
+## 📖 About The Project
 
-This is a front-end only project, built primarily for learning purposes, client presentation, and UI development portfolio.
+<img src="Online%20Course%20Website/assets/images/screenshot.PNG" alt="Youdemi Online Course Website Screenshot" width="100%" />
 
-### Built With
+**Youdemi** is a modern and professional front-end UI design inspired by real-world **EdTech and eLearning platforms**.  
+The project focuses on clean layouts, intuitive navigation, and effective content presentation for online courses.
 
-- HTML5  
-- CSS3  
-- JavaScript
+It includes well-structured sections such as:
+- Course listings  
+- Categories and highlights  
+- Testimonials  
+- Call-to-action sections  
 
-### Features
+This project demonstrates strong skills in:
+- UI layout planning  
+- Responsive web design  
+- Consistent styling and spacing  
+- Front-end presentation for LMS platforms  
 
-- Clean and structured UI design for an eLearning platform  
-- Fully responsive layout for all devices  
-- Course cards, categories, and CTA sections  
-- Interactive elements with hover effects  
+Ideal for:
+- EdTech UI demos  
+- Front-end portfolio projects  
+- Online course platforms  
+- UI/UX case studies  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## ✨ Features
+
+- Clean and professional eLearning UI  
+- Fully responsive design for all screen sizes  
+- Course cards and category sections  
+- Interactive hover effects  
 - Visually engaging hero and testimonial sections  
-- Ideal for EdTech demos or UI case studies  
+- Clean and scalable front-end structure  
 
-### Contact
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-**Muhammad Salman Arshad**  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-📧 [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+---
 
-<p align="right">(<a href="#top">Back to Top</a>)</p>
+## 🛠️ Built With
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## 📬 Contact
+
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman  
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
