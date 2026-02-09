@@ -8,6 +8,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/codewith-salman/Online-Course-Academy)
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/Online-Course-Academy)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://online-course-academy-pi.vercel.app/)
+
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
@@ -29,21 +31,6 @@ built using **HTML, CSS, and JavaScript**.
 <a href="https://online-course-academy-pi.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
-
----
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>📑 Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
----
 
 ## 📖 About The Project
 
