@@ -8,8 +8,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/codewith-salman/Online-Course-Academy)
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/Online-Course-Academy)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://online-course-academy-pi.vercel.app/)
-
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
@@ -18,7 +16,7 @@
 <br />
 
 <!-- 🔥 PROJECT LOGO -->
-<img src="Online%20Course%20Website/assets/images/logo.svg" alt="Youdemi Logo" width="90" />
+<img src="Online%20Course%20Website/assets/images/logo.svg" alt="Youdemi Logo" width="120" />
 
 <br />
 <br />
